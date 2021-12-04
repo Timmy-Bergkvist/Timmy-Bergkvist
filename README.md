@@ -2,7 +2,6 @@
 
 ![Hi there, I'm Timmy](https://github.com/Timmy-Bergkvist/Timmy-Bergkvist/blob/master/mgsgif.gif)
 
-<br />
 
 ##
 
@@ -39,19 +38,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
-<br />
 
 ##
 
 <br />
-<br />
 
 ![Timmy-Bergkvist github stats](https://github-readme-stats.vercel.app/api?username=Timmy-Bergkvist&theme=gruvbox&show_icons=true&count_private=true&hide_border=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Timmy-Bergkvist&theme=gruvbox&repo=coin-exchange)](https://github.com/Timmy-Bergkvist/coin-exchange)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Timmy-Bergkvist&theme=gruvbox&repo=Pralinorskan-app)](https://github.com/Timmy-Bergkvist/Pralinorskan-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Timmy-Bergkvist&theme=gruvbox&repo=pulp-records)](https://github.com/Timmy-Bergkvist/pulp-records)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Timmy-Bergkvist&theme=gruvbox&repo=hiking-sweden)](https://github.com/Timmy-Bergkvist/hiking-sweden)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Timmy-Bergkvist&theme=gruvbox&repo=js-pacman)](https://github.com/Timmy-Bergkvist/js-pacman)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Timmy-Bergkvist&theme=gruvbox&repo=timmys-portfolio)](https://github.com/Timmy-Bergkvist/timmys-portfolio)
 <br />
