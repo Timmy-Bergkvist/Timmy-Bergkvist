@@ -10,7 +10,7 @@
 - ✏️ I’m currently studying bitcoin programing and lightning network
 - 🔭 I’m currently working at <a href="https://kryptoskatt.com/">kryptoskatt,</a> a platform that calculates your crypto taxes
 - ❤️ Retro games, Ramen, Cats, Bitcoin and Code
-- ⚡ Fun fact: I walked throug the entire uk from Land’s end to John o’Groats
+- ⚡ Fun fact: I walked through the entire uk from Land’s end to John o’Groats
 - 💬 Love to talk about bitcoin, economics and philosophy
 - 📫 How to reach me: [![Linkedin: timmy-b-317095193](https://img.shields.io/badge/-Timmy%20Bergkvist-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timmy-b-317095193/)](https://www.linkedin.com/in/timmy-b-317095193/)
 ##
