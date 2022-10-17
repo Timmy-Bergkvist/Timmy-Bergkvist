@@ -7,8 +7,8 @@
 
 ### I'm a Retro game nerd, Kickboxer, Developer, Blockchain and Cryptocurrency Enthusiast!!
 
-- ✏️ I’m currently studying bitcoin programing and lightning network
-- 🔭 I’m currently working at <a href="https://kryptoskatt.com/">kryptoskatt,</a> a platform that calculates your crypto taxes
+- ✏️ I’m currently studying cyber security
+- 🔭 I’m currently working at <a href="https://www.prototyp.se/en">Prototyp </a>
 - ❤️ Retro games, Ramen, Cats, Bitcoin and Code
 - ⚡ Fun fact: I walked through the entire uk from Land’s end to John o’Groats
 - 💬 Love to talk about bitcoin, economics and philosophy
