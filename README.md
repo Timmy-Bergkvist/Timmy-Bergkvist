@@ -5,13 +5,13 @@
 
 ##
 
-### I'm a Retro game nerd, Kickboxer, Developer, Blockchain and Cryptocurrency Enthusiast!!
+### I'm a Retro game nerd, Developer, Maker and DIY Enthusiast!!
 
 - ✏️ I’m currently studying cyber security
 - 🔭 I’m currently working at <a href="https://www.prototyp.se/en">Prototyp </a>
 - ❤️ Retro games, Ramen, Cats, Bitcoin and Code
 - ⚡ Fun fact: I walked through the entire uk from Land’s end to John o’Groats
-- 💬 Love to talk about bitcoin, economics and philosophy
+- 💬 Love to talk about: Cyber security, ethical hacking, bitcoin and philosophy
 - 📫 How to reach me: [![Linkedin: timmy-b-317095193](https://img.shields.io/badge/-Timmy%20Bergkvist-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timmy-b-317095193/)](https://www.linkedin.com/in/timmy-b-317095193/)
 ##
 
@@ -34,15 +34,11 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
+![Arduino](https://img.shields.io/badge/Arduino-%2300A79D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+
 
 ##
-
-<br />
-
-![Timmy-Bergkvist github stats](https://github-readme-stats.vercel.app/api?username=Timmy-Bergkvist&theme=gruvbox&show_icons=true&count_private=true&hide_border=true)
-
-<br />
