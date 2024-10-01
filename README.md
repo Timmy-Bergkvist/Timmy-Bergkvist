@@ -15,7 +15,7 @@
 - 📫 How to reach me: [![Linkedin: timmy-b-317095193](https://img.shields.io/badge/-Timmy%20Bergkvist-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timmy-b-317095193/)](https://www.linkedin.com/in/timmy-b-317095193/)
 ##
 
-### My Teck Stack
+### My Tech Stack
 
 ### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
